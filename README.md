@@ -4,4 +4,4 @@ With technological advancements and the expansion of businesses, the demand for 
 
 This project aims to develop a more accurate loan prediction model using machine learning to reduce the risk involved in selecting appropriate loan applicants. By mining previous loan records and using bank loan rules, we will train a machine learning model to predict loan eligibility.
 
-# We used sklearn library for our model and the train test-split method to split the dataset. Various models, including Logistic Regression, Decision Tree (DT), Random Forest (RF), and Support Vector Machine (SVM), will be employed to achieve accurate results. Our experiments indicate that the Random Forest classifier provides the best accuracy.
+We used sklearn library for our model and the train test-split method to split the dataset. Various models, including Logistic Regression, Decision Tree (DT), Random Forest (RF), and Support Vector Machine (SVM), will be employed to achieve accurate results. Our experiments indicate that the Random Forest classifier provides the best accuracy.
